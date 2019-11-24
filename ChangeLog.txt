@@ -1,0 +1,13 @@
+v1.0.3
+   Retirado os debugs do grafico
+
+v1.0.2
+   grafico com texto para debugar erro de exibicao de cores/canais
+
+v1.0.1
+   grafico com 13 cores fixas e exclusivas.
+   Algumas linhas de relatorio sem espaçamento fixo (fix).
+
+v1.0.0
+   grafico com selecão de 8 cores variaveis.
+   versão original
