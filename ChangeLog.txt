@@ -1,3 +1,6 @@
+﻿v1.0.10
+   Versão para Avaliação - Primeira vez que o kit passa nos testes.
+   Com vários pontos de Debug.
 v1.0.3
    Retirado os debugs do grafico
 
