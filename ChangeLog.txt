@@ -1,4 +1,8 @@
-﻿v1.0.10
+﻿v1.0.12
+   Todos os campos principais em branco puro.
+
+
+v1.0.10
    Versão para Avaliação - Primeira vez que o kit passa nos testes.
    Com vários pontos de Debug.
 v1.0.3
