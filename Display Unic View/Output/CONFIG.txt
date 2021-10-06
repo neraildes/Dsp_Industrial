@@ -1,8 +1,8 @@
 ; # UnicView AD System Configuration File
 ; # WARNING : Do not modify this file manually! This may render the LCM unusable.
 R1=07		; Baudrate: 115200 bps
-R5=5E		; Custom baudrate divider, high byte
-R9=10		; Custom baudrate divider, low byte
+R5=00		; Custom baudrate divider, high byte
+R9=36		; Custom baudrate divider, low byte
 R3=5A		; Frame header, high byte
 RA=A5		; Frame header, low byte
 R6=3F		; ON Brightness
