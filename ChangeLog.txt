@@ -1,5 +1,5 @@
 ﻿v1.0.18
-   Retirado os fundos de tela ao digitar no campo de alteração de senha.
+   Retirado os fundos de tela ao digitar no campo de alteração de senha. 
 v1.0.16
    Respeitando a pergunta "Deseja encerrar o processo".
    Corrigido mensagem de erro "acesso negador".
